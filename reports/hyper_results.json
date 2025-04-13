@@ -1,0 +1,272 @@
+[
+  {
+    "best_val_acc": 0.4701,
+    "config": {
+      "hidden_size": 64,
+      "learning_rate": 0.001,
+      "reg_strength": 0.001,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.474,
+    "config": {
+      "hidden_size": 64,
+      "learning_rate": 0.001,
+      "reg_strength": 0.01,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4334,
+    "config": {
+      "hidden_size": 64,
+      "learning_rate": 0.001,
+      "reg_strength": 0.1,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4561,
+    "config": {
+      "hidden_size": 64,
+      "learning_rate": 0.0005,
+      "reg_strength": 0.001,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4584,
+    "config": {
+      "hidden_size": 64,
+      "learning_rate": 0.0005,
+      "reg_strength": 0.01,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.432,
+    "config": {
+      "hidden_size": 64,
+      "learning_rate": 0.0005,
+      "reg_strength": 0.1,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.3937,
+    "config": {
+      "hidden_size": 64,
+      "learning_rate": 0.0001,
+      "reg_strength": 0.001,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4028,
+    "config": {
+      "hidden_size": 64,
+      "learning_rate": 0.0001,
+      "reg_strength": 0.01,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.3968,
+    "config": {
+      "hidden_size": 64,
+      "learning_rate": 0.0001,
+      "reg_strength": 0.1,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4856,
+    "config": {
+      "hidden_size": 128,
+      "learning_rate": 0.001,
+      "reg_strength": 0.001,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4997,
+    "config": {
+      "hidden_size": 128,
+      "learning_rate": 0.001,
+      "reg_strength": 0.01,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4374,
+    "config": {
+      "hidden_size": 128,
+      "learning_rate": 0.001,
+      "reg_strength": 0.1,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4758,
+    "config": {
+      "hidden_size": 128,
+      "learning_rate": 0.0005,
+      "reg_strength": 0.001,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.472,
+    "config": {
+      "hidden_size": 128,
+      "learning_rate": 0.0005,
+      "reg_strength": 0.01,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.435,
+    "config": {
+      "hidden_size": 128,
+      "learning_rate": 0.0005,
+      "reg_strength": 0.1,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4089,
+    "config": {
+      "hidden_size": 128,
+      "learning_rate": 0.0001,
+      "reg_strength": 0.001,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4062,
+    "config": {
+      "hidden_size": 128,
+      "learning_rate": 0.0001,
+      "reg_strength": 0.01,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4073,
+    "config": {
+      "hidden_size": 128,
+      "learning_rate": 0.0001,
+      "reg_strength": 0.1,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.502,
+    "config": {
+      "hidden_size": 256,
+      "learning_rate": 0.001,
+      "reg_strength": 0.001,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.5082,
+    "config": {
+      "hidden_size": 256,
+      "learning_rate": 0.001,
+      "reg_strength": 0.01,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4413,
+    "config": {
+      "hidden_size": 256,
+      "learning_rate": 0.001,
+      "reg_strength": 0.1,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4813,
+    "config": {
+      "hidden_size": 256,
+      "learning_rate": 0.0005,
+      "reg_strength": 0.001,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4814,
+    "config": {
+      "hidden_size": 256,
+      "learning_rate": 0.0005,
+      "reg_strength": 0.01,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4404,
+    "config": {
+      "hidden_size": 256,
+      "learning_rate": 0.0005,
+      "reg_strength": 0.1,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.412,
+    "config": {
+      "hidden_size": 256,
+      "learning_rate": 0.0001,
+      "reg_strength": 0.001,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4081,
+    "config": {
+      "hidden_size": 256,
+      "learning_rate": 0.0001,
+      "reg_strength": 0.01,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  },
+  {
+    "best_val_acc": 0.4143,
+    "config": {
+      "hidden_size": 256,
+      "learning_rate": 0.0001,
+      "reg_strength": 0.1,
+      "activation": "relu",
+      "batch_size": 64
+    }
+  }
+]
